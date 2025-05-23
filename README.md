@@ -1,16 +1,24 @@
-# Getting Started with the Application
-This is a well-structured beginner web development project demonstrating interactive UI creation and event handling with basic web technologies. 
-It's great for learning DOM manipulation, event-driven programming, and UI design fundamentals.
+# 🧮 Calculator Web Application
 
-### About the Application:
-1.The calculator has a clean and modern user interface that enhances user experience with visually appealing elements like shadows, gradients, and rounded corners.
+A simple, functional web-based calculator built using **HTML**, **CSS**, and **JavaScript**. This project allows users to perform basic arithmetic operations in a visually appealing and responsive interface.
 
-2.It supports all basic arithmetic operations including addition, subtraction, multiplication, division, and percentage, making it functionally complete for everyday calculations.
+## 📁 Project Structure
+![image](https://github.com/user-attachments/assets/38c615a5-2ba4-4d09-9f7d-d308bb7e8695)
 
-3.JavaScript is used effectively to handle all button events, demonstrating strong understanding of DOM manipulation and event-driven programming.
+## 🚀 Features
 
-4.The output is displayed in real-time as users click buttons, offering immediate feedback and intuitive interaction.
+- Perform basic arithmetic operations: `+`, `-`, `*`, `/`, `%`
+- Real-time input and result display
+- Functional buttons:
+  - `AC` – All Clear
+  - `DEL` – Delete last character
+  - `=` – Evaluate expression
+- Responsive and modern UI with gradients and shadows
 
-5.The entire project is built using only front-end technologies (HTML, CSS, and JavaScript), requiring no server-side setup and making it lightweight and easy to deploy.
+## 🛠️ Technologies Used
 
-6.The calculator includes important features like 'AC' to clear all inputs and 'DEL' to delete the last character, enhancing its practical usability.
+- **HTML5** – Layout and structure
+- **CSS3** – Styling and layout design
+- **JavaScript** – Interactive functionality
+
+- ---
